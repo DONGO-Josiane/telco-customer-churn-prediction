@@ -116,4 +116,4 @@ jupyter notebook Telco-Customer-Churn.ipynb
 
 ---
 
-*Auteure : [Josiane SOBGO DONGO](https://www.linkedin.com/in/josiane-dongo)*
+*Auteure : [SOBGO DONGO Josiane](https://www.linkedin.com/in/josiane-dongo)*
